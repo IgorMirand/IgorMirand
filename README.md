@@ -1,11 +1,10 @@
 <h1 align="center">Olá, sou Igor Miranda 👋</h1>
-
 <p align="center">
   Desenvolvedor de Software Full-Stack · Brasília, DF
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ig0rm" target="_blank">
+  <a href="https://www.linkedin.com/in/igormirand" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:IgorMirandaMoura@hotmail.com">
@@ -53,14 +52,21 @@ Desenvolvedor de Software Full-Stack formado em **Ciência da Computação** pel
 
 ### 🧠 [Cognitive — Plataforma de Saúde Mental (Em Produção)](https://github.com/IgorMirand/Cognitive-TCC)
 Sistema completo de acompanhamento psicológico conectando profissionais e pacientes. Desenvolvimento end-to-end com autenticação JWT e API documentada.
+
 `Python` `FastAPI` `KivyMD` `React Native` `PostgreSQL` `Vercel`
+
+**Minha parte:** arquitetura da API, autenticação JWT e integração com PostgreSQL/Neon.
+
 🔗 [API em produção](https://cognitive-tcc.vercel.app) · [Documentação Swagger](https://cognitive-tcc.vercel.app/docs)
 
 ---
 
-### ⛪ [AgapeSys — Sistema de Gestão e Chamada](https://github.com/vnimar/AgapeSys)
-Projeto colaborativo e voluntário para automação e gestão administrativa, focado na integridade e organização dos dados da comunidade.
-`TypeScript` `Node.js` `Git Flow`
+### ⛪ [Agapello — Gestão de Chamada e Frequência](https://github.com/vnimar/AgapeSys)
+Projeto colaborativo e voluntário para controle de frequência e gestão de servos, com app mobile e backend próprio.
+
+`React Native` `TypeScript` `Python` `FastAPI`
+
+**Minha parte:** endpoints do backend (ex. rotas de frequência com lógica de ordenação por data) e ajustes de schema entre API e app.
 
 ---
 
